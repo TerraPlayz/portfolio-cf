@@ -1,50 +1,42 @@
 # homepage
 homepage:
   head:
-    title: "Home | shit"
+    title: "Home | Om Senjalia"
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m motherfucker"
-  subtitle: "Front-End Developer"
-  description: "I work at <a target='_blank' href='https://radity.com/fuckme'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
-  image:
-    alt: "Showcase keyboard and mouse image"
-    x: "img/showcase/showcase.png"
-    _2x: "img/showcase/showcase@2x.png"
-  imageMobile:
-    alt: "Showcase keyboard and mouse image"
-    x: "img/showcase/showcase-mobile.jpg"
-
+  title: "Hello, I’m Om Senjalia"
+  subtitle: "I am 14 years old"
+  description: "I am a coder who likes Python, JS, TS and Bash.."
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
+    URL: "mail:omsenjalia+contact@gmail.com"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/company/radity/"
+      URL: "https://www.linkedin.com"
 
     - icon: "github"
-      URL: "https://github.com/radity"
+      URL: "https://github.com/"
 
     - icon: "twitter"
-      URL: "https://twitter.com/radity"
+      URL: "https://twitter.com/"
 
     - icon: "dribbble"
-      URL: "https://dribbble.com/radity"
+      URL: "https://dribbble.com/"
 
     - icon: "behance"
-      URL: "https://www.behance.net/radity-digital"
+      URL: "https://www.behance.net/"
 
     - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+      URL: "https://www.youtube.com/channe"
 
     - icon: "instagram"
-      URL: "https://www.instagram.com/teamradity/"
+      URL: "https://www.instagram.com/"
 
     - icon: "facebook"
-      URL: "https://www.facebook.com/raditycom/"
+      URL: "https://www.facebook.com//"
 
     - icon: "codepen"
       URL: "#"
@@ -57,7 +49,7 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I am a fucker, after a few days of vacationing with family. Weather was awesome, the beach was
+    I am a person, after a few days of vacationing with family. Weather was awesome, the beach was
     full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
     good for all of you.
     </p>
@@ -222,14 +214,12 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+41 (44) 505 10 99"
+    number: "911"
   email:
     title: "Email"
-    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
+    email: '<a href="mailto:omsenjalia+contact@gmail.com">omsenjalia@gmail.com</a>'
   address:
-    title: "Address"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
-  button:
+   button:    
     icon: "icon-mail-fill"
     btnText: "Send Message"
 
