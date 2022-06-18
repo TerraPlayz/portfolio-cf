@@ -1,4 +1,4 @@
-baseURL = "https://raditian-hugo.radity.com/"
+baseURL = "https://localhost"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
 
@@ -68,8 +68,8 @@ theme = "raditian-free-hugo-theme"
     text2 = "Ellure"
 
   [params.footer]
-      copyright = "© Raditian. All rights reserved."
+      copyright = "© Om Senjalia 2022. All rights reserved."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
-        alt = "Design & Code - Radity"
+        alt = "Team work is Dream work - Om Senjalia"
