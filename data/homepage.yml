@@ -1,0 +1,74 @@
+# homepage
+homepage:
+  head:
+    title: "Home | Om Senjalia"
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Om Senjalia"
+  subtitle: "I am 14 years old"
+  description: "I am a coder who likes Python, JS, TS and Bash.."
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "mail:omsenjalia+contact@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com"
+
+    - icon: "github"
+      URL: "https://github.com/"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/"
+
+    - icon: "dribbble"
+      URL: "https://dribbble.com/"
+
+    - icon: "behance"
+      URL: "https://www.behance.net/"
+
+    - icon: "youtube"
+      URL: "https://www.youtube.com/channe"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com//"
+
+    - icon: "codepen"
+      URL: "#"
+
+    - icon: "yelp"
+      URL: "https://www.yelp.com/"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    method: "POST"
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "911"
+  email:
+    title: "Email"
+    email: '<a href="mailto:omsenjalia+contact@gmail.com">omsenjalia@gmail.com</a>'
+  address:
+   button:    
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: true
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."

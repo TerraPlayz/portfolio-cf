@@ -1,0 +1,15 @@
+echo "Pulling from git"
+git pull
+
+echo "adding changes"
+git add .
+
+read -p "Your commit message : " COMMIT
+
+echo "commit it"
+git commit -m "feat: $COMMIT"
+
+echo "Pushing changes"
+git push
+
+echo "Done your latest commit was: $COMMIT"
