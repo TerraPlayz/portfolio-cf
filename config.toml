@@ -1,7 +1,7 @@
 baseURL = "https://localhost"
 languageCode = "en-us"
 title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
-theme = "navigator"
+theme = "navigator-cf"
 summaryLength = 10
 
 # Build robots.txt file
