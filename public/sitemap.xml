@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://demo.gethugothemes.com/navigator/examplesite/fr/sitemap.xml</loc>
-		
-	   	<lastmod>2018-07-07T18:23:33+06:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://demo.gethugothemes.com/navigator/examplesite/en/sitemap.xml</loc>
-		
-	   	<lastmod>2018-07-08T12:22:40+06:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost/portfolio/kio-tape-2/</loc>
+    <lastmod>2019-12-23T20:56:42+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost/</loc>
+    <lastmod>2019-12-23T20:56:42+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost/contact/</loc>
+    <lastmod>2019-12-23T20:17:01+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost/blog/</loc>
+    <lastmod>2019-12-23T20:17:01+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost/portfolio/</loc>
+    <lastmod>2019-12-23T16:48:28+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost/portfolio/use-less-brand/</loc>
+    <lastmod>2019-12-23T15:58:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost/portfolio/osen-clock/</loc>
+    <lastmod>2019-12-23T15:56:43+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost/portfolio/seamless-watch/</loc>
+    <lastmod>2019-12-23T15:55:44+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost/portfolio/kio-tape/</loc>
+    <lastmod>2019-12-23T15:44:46+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost/about/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost/categories/</loc>
+  </url><url>
+    <loc>http://localhost/tags/</loc>
+  </url>
+</urlset>

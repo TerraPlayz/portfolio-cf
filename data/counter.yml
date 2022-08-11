@@ -1,0 +1,14 @@
+enable : true
+heading : "The stats!"
+counter_item: 
+  - title: "TownHall"
+    number: "9"
+
+  - title: "Level"
+    number: "69"
+
+  - title: "Clan"
+    number: "The 7th Elements"
+
+  - title: "PLayer ID"
+    number: "HERE"
